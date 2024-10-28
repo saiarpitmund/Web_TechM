@@ -1,0 +1,61 @@
+header {
+    background-color: #8fb490;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+nav ul {
+    background-color: #0d0d0d;
+    list-style-type: none;
+    display: block;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 200px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+#education{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0;
+}
+
+#experience{
+    background-color: #3239b7;
+    padding: 20px;
+    margin: 0;
+}
+
+#contact{
+    background-color: #71db25;
+    padding: 20px;
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
